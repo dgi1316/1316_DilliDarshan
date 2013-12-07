@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dilli Darshan</string>
+    <string name="action_more">More</string>
+    <string name="action_rate">Rate Us</string>
+    <string name="action_share">Share</string>
+    <string name="action_about">About Us</string>
+    <string name="action_disclaimer">Disclaimer</string>
+    <string name="action_exit">Exit</string>
+    <string name="dialog_title">Alert</string>
+    <string name="dialog_message">Are you sure you want to quit the application?</string>
+    <string name="yes">Quit</string>
+    <string name="no">Return</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="list_array">
+        <item>About Delhi</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Accomodation</item>
+        <item>Eating Out</item>
+        <item>Plan Your Itinerary</item>
+        <item>Contact Us</item>
+    </string-array>
+
+    <string name="title_section00">About Delhi</string>
+    <string name="title_section01">Delhi Today</string>
+    <string name="title_section02">History of Delhi</string>
+    <string name="title_section03">Culture of Delhi</string>
+    <string name="title_section04">Maps of Delhi</string>
+    <string name="title_section05">Seasons of Delhi</string>
+    <string name="title_section06">Best Time to Visit</string>
+    <string name="title_section07">How to Reach</string>
+    <string name="title_section08">Important Numbers</string>
+    <string name="title_section10">Local Transport</string>
+    <string name="title_section11">Metro Rail</string>
+    <string name="title_section12">HOHO</string>
+    <string name="title_section13">City Bus</string>
+    <string name="title_section14">Auto Rickshaw</string>
+    <string name="title_section15">Taxi</string>
+    <string name="title_section16">Radio Taxi</string>
+    <string name="title_section17">Car Rental</string>
+    <string name="title_section20">Entertainment</string>
+    <string name="title_section21">Museums in Delhi</string>
+    <string name="title_section22">Movie Theatres</string>
+    <string name="title_section23">Theaters and Auditorium</string>
+    <string name="title_section24">Pubs and Discotheques</string>
+    <string name="title_section25">Art Galleries</string>
+    <string name="title_section26">Adventure Sports</string>
+    <string name="title_section27">Golf in Delhi</string>
+    <string name="title_section28">Parks in Delhi</string>
+    <string name="title_section29">Children\&apos;s Entertainment</string>
+    <string name="title_section30">Lodging Facilities</string>
+    <string name="title_section31">Bed &amp; Breakfast</string>
+    <string name="title_section32">Luxury Hotels</string>
+    <string name="title_section33">Semi Luxury Hotels</string>
+    <string name="title_section34">Economy/Budget Hotels</string>
+    <string name="title_section40">Overview</string>
+    <string name="title_section41">Indian Cuisines</string>
+    <string name="title_section42">International Cuisines</string>
+    <string name="title_section43">Fast Food</string>
+    <string name="title_section44">Coffee Shop</string>
+    <string name="title_section45">Pastry Shop</string>
+    <string name="title_section46">Old Delhi Food</string>
+    <string name="title_section50">Overview</string>
+    <string name="title_section51">Delhi in Half a Day</string>
+    <string name="title_section52">Delhi in 1 Day</string>
+    <string name="title_section53">Delhi in 2 Days</string>
+    <string name="title_section54">Delhi in 3 Days</string>
+    <string name="title_section55">Delhi in 5 Days</string>
+    <string name="title_section56">Delhi in 6 Days</string>
+    <string name="title_section57">Excursions outside Delhi</string>
+    <string name="title_section58">Other ways to experience Delhi</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

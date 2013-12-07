@@ -1,0 +1,40 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_more"
+        android:showAsAction="always"
+        android:title="@string/action_more"
+        android:icon="@drawable/ic_action_overflow">
+        
+        <menu>
+            
+            <item 
+                android:id="@+id/action_rate"
+                android:title="@string/action_rate"
+                android:icon="@drawable/ic_action_rate"/>
+            
+            <item 
+                android:id="@+id/action_share"
+                android:title="@string/action_share"
+                android:icon="@drawable/ic_action_share"/>
+            
+            <item 
+                android:id="@+id/action_about"
+                android:title="@string/action_about"
+                android:icon="@drawable/ic_action_about"/>
+            
+            <item 
+                android:id="@+id/action_disclaimer"
+                android:title="@string/action_disclaimer"
+                android:icon="@drawable/ic_action_disclaimer"/>
+            
+            <item 
+                android:id="@+id/action_exit"
+                android:title="@string/action_exit"
+                android:icon="@drawable/ic_action_exit"/>
+            
+        </menu>
+        
+    </item>
+
+</menu>
